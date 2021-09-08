@@ -8,7 +8,7 @@
 # steps
 - Download all files
 - In Terminal, `cd ~/product-stock-tracker`
-- In Terminal, `php artisan track`
+- In Terminal, `php artisan track` will run the command to query the retailer API and output a progress bar and table with Name, Price, Url, and if 'In_stock'. If In_stock = 0, False. 1 = True and in stock.
 
 # notes
 - The only API currently hooked in is Best Buy.
