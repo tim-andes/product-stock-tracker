@@ -19,3 +19,4 @@
 - [ ] Figure out easiest way to add new products
 - [ ] Create server, query API's every 5 minutes
 - [ ] Notify when product is in stock or has had price change
+- [ ] Add Doc Blocks
